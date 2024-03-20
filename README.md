@@ -45,3 +45,15 @@ flutter pub run flutter_launcher_icons:main
 ```
 flutter analyze lib
 ```
+
+## polelang update
+```
+final apdate fix polelang siting as fulo
+The language is set from the directory name in pretty permalinks
+is chiked
+Remove /language/ in pretty permalinks
+is ckecked
+The front page URL contains the language code instead of the page name or page id
+is checked
+no ather plgin from polilang
+ ```
