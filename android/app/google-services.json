@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "879787760334",
+    "project_id": "maxmuscle-d499c",
+    "storage_bucket": "maxmuscle-d499c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879787760334:android:11f7cf9cd91e674e33ce9f",
+        "android_client_info": {
+          "package_name": "net.maxmuscle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879787760334-73d963od93oj95mgqivb110ehn3u01si.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx1e1eYH3i6wY92OhKICLLWSRHtz9VgUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879787760334-73d963od93oj95mgqivb110ehn3u01si.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "879787760334-u5gmvaiki44nn0bpkc8suhq2snngp6pm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "net.maxmuscle"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
